@@ -1,10 +1,11 @@
 {
-    "maven.view": "hierarchical",
+    "maven.view": "flat",
     "java.dependency.packagePresentation": "hierarchical",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
 }

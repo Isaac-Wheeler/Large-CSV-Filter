@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "mage.Main",
+            "projectName": "dev"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "io.wheeler.Main",
             "projectName": "Large-CSV-Filter_53ecd7b7"
         }
